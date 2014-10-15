@@ -11,12 +11,12 @@ How to navigate to simulation
 =================
 Once qt libraries are installed, navigate to the BallPhysicsEngine folder.
 
-$qmake <br>
-$make <br>
-$./ball <br>
+$qmake<br>
+$make<br>
+$./ball<br>
 
 How to operate simulation
 ================
-Start/Pause simulation = double click the right mouse button.
-Create a ball = double click the left mouse button.
-How to create a connecting rod between two balls = click and drag the mouse from one ball to another.
+Start/Pause simulation = double click the right mouse button.<br>
+Create a ball = double click the left mouse button.<br>
+How to create a connecting rod between two balls = click and drag the mouse from one ball to another.<br>
