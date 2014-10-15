@@ -11,9 +11,9 @@ How to navigate to simulation
 =================
 Once qt libraries are installed, navigate to the BallPhysicsEngine folder.
 
-$qmake
-$make
-$./ball
+$qmake /n
+$make /n
+$./ball /n
 
 How to operate simulation
 ================
