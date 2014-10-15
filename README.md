@@ -1,7 +1,7 @@
 BallPhysicsEngine
 =================
 
-Physics engine for CSC-432 that simulates movement of balls and connecting rods.
+Physics engine that simulates movement of balls and connecting rods. Created by Marcus del Rio and Patrick Reed.
 
 Required libraries
 =================
